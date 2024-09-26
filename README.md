@@ -8,7 +8,7 @@
   With a strong foundation in <strong>Front-End Development</strong>, I create intuitive user interfaces and seamless user experiences. My knowledge of <strong>React.js</strong> allows me to build responsive and dynamic web applications, while my understanding of <strong> HTML </strong> and <strong>CSS</strong> ensures that I can bring designs to life with precision.
 </p>
 <p>
-  I have a solid skill set in <strong>JavaScript</strong>, which is essential for adding interactivity and dynamic features to my web applications. My proficiency in <strong>JavaScript </strong> allows me to effectively manipulate the Document Object Model (DOM), handle events, and create engaging user experiences.
+  I have a solid skill set in <strong>JavaScript</strong>, which is essential for adding interactivity and dynamic features to my web applications. My proficiency in<strong>JavaScript</strong> allows me to effectively manipulate the Document Object Model (DOM), handle events, and create engaging user experiences.
 </p>
 <p>
   On the <strong>Back-End Development</strong> side, I am familiar with <strong>Node.js</strong> and <strong>Express</strong>, which enable me to develop robust server-side applications. I have experience working with <strong>MongoDB</strong> for database management, allowing me to create full-stack applications that manage data efficiently.
