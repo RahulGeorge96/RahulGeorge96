@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Rahul George</h1>
-<p>I am from Kerala,India.
+<p>
   I am an Aspiring Web Developer  and
   Proficient in HTML,CSS,Javascript and React.js.
   Working Passionately to became an Expertise in Data Structure and Algorithims</p>
