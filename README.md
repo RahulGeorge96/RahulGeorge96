@@ -5,7 +5,7 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 <p>
-  With a strong foundation in <strong>Front-End Development</strong>, I create intuitive user interfaces and seamless user experiences. My knowledge of React.js allows me to build responsive and dynamic web applications, while my understanding of HTML and CSS ensures that I can bring designs to life with precision.
+  With a strong foundation in <strong>Front-End Development</strong>, I create intuitive user interfaces and seamless user experiences. My knowledge of <strong>React.js</strong> allows me to build responsive and dynamic web applications, while my understanding of <strong> HTML </strong> and <strong>CSS</strong> ensures that I can bring designs to life with precision.
 </p>
 <p>
   I have a solid skill set in <strong>JavaScript</strong>, which is essential for adding interactivity and dynamic features to my web applications. My proficiency in JavaScript allows me to effectively manipulate the Document Object Model (DOM), handle events, and create engaging user experiences.
