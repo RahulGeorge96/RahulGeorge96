@@ -17,10 +17,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulGeorge96&" alt="RahulGeorge96" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulGeorge96&show_icons=true&locale=en" alt="Rahul's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulGeorge96&" alt="Rahul's GitHub Streak" />
-</p>
