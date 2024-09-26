@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul George</h1>
 <p>
-  I am an aspiring Web Developer with a passion for crafting beautiful and functional web applications. Proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React.js</strong>, I am dedicated to honing my skills in Data Structures and Algorithms to excel in software development.
+  I am an Aspiring Web Developer with a passion for crafting beautiful and functional web applications. Proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React.js</strong>, I am dedicated to honing my skills in Data Structures and Algorithms to excel in software development.
 </p>
 
 <h3 align="left">👨‍💻 About Me:</h3>
