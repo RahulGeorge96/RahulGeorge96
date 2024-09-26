@@ -35,7 +35,11 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulGeorge96&layout=compact&hide=HTML&langs_count=6&theme=radical" alt="Most Used Languages" />
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulGeorge96&show_icons=true&locale=en" alt="RahulGeorge96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulGeorge96&" alt="RahulGeorge96" /></p>
-
